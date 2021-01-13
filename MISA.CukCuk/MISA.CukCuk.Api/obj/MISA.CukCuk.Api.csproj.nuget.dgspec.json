@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\httrang\\Desktop\\MISA.CukCuk.Api\\MISA.CukCuk\\MISA.CukCuk.Api\\MISA.CukCuk.Api.csproj": {}
+    "C:\\Users\\httrang\\Desktop\\api\\MISA.CukCuk\\MISA.CukCuk.Api\\MISA.CukCuk.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\httrang\\Desktop\\MISA.CukCuk.Api\\MISA.CukCuk\\MISA.CukCuk.Api\\MISA.CukCuk.Api.csproj": {
+    "C:\\Users\\httrang\\Desktop\\api\\MISA.CukCuk\\MISA.CukCuk.Api\\MISA.CukCuk.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\httrang\\Desktop\\MISA.CukCuk.Api\\MISA.CukCuk\\MISA.CukCuk.Api\\MISA.CukCuk.Api.csproj",
+        "projectUniqueName": "C:\\Users\\httrang\\Desktop\\api\\MISA.CukCuk\\MISA.CukCuk.Api\\MISA.CukCuk.Api.csproj",
         "projectName": "MISA.CukCuk.Api",
-        "projectPath": "C:\\Users\\httrang\\Desktop\\MISA.CukCuk.Api\\MISA.CukCuk\\MISA.CukCuk.Api\\MISA.CukCuk.Api.csproj",
+        "projectPath": "C:\\Users\\httrang\\Desktop\\api\\MISA.CukCuk\\MISA.CukCuk.Api\\MISA.CukCuk.Api.csproj",
         "packagesPath": "C:\\Users\\httrang\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\httrang\\Desktop\\MISA.CukCuk.Api\\MISA.CukCuk\\MISA.CukCuk.Api\\obj\\",
+        "outputPath": "C:\\Users\\httrang\\Desktop\\api\\MISA.CukCuk\\MISA.CukCuk.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\httrang\\AppData\\Roaming\\NuGet\\NuGet.Config",
